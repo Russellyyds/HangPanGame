@@ -1,4 +1,4 @@
-const API_URL = `http://localhost:5005`;
+const API_URL = `https://game-backend-liard.vercel.app/`;
 
 // Helper function for making API requests
 const request = async (endpoint, options = {}) => {
